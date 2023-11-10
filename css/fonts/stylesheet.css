@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Gotham-Medium';
+    src: url('fonts/Gotham-Medium.eot');
+    src: url('fonts/Gotham-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Gotham-Medium.woff') format('woff'),
+        url('fonts/Gotham-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham-Black';
+    src: url('fonts/Gotham-Black.eot');
+    src: url('fonts/Gotham-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Gotham-Black.woff') format('woff'),
+        url('fonts/Gotham-Black.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham-Bold';
+    src: url('fonts/Gotham-Bold.eot');
+    src: url('fonts/Gotham-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Gotham-Bold.woff') format('woff'),
+        url('fonts/Gotham-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham-Black_1';
+    src: url('fonts/Gotham-Black_1.eot');
+    src: url('fonts/Gotham-Black_1.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Gotham-Black_1.woff') format('woff'),
+        url('fonts/Gotham-Black_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GothamBlack';
+    src: url('fonts/GothamBlack.eot');
+    src: url('fonts/GothamBlack.eot?#iefix') format('embedded-opentype'),
+        url('fonts/GothamBlack.woff') format('woff'),
+        url('fonts/GothamBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura';
+    src: url('fonts/Futura-Thin.eot');
+    src: url('fonts/Futura-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Futura-Thin.woff') format('woff'),
+        url('fonts/Futura-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OPTIFuturaDemiBold';
+    src: url('fonts/OPTIFuturaDemiBold.eot');
+    src: url('fonts/OPTIFuturaDemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/OPTIFuturaDemiBold.woff') format('woff'),
+        url('fonts/OPTIFuturaDemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
